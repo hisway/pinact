@@ -1,0 +1,1 @@
+{"main":[{"type":"main","name":"\u4e13\u8f91","alias":"album","link":"","target":"0"},{"type":"main","name":"\u627e\u6d3b\u52a8","alias":"cate","link":"?m=book&a=cate&cid=333","target":"0"}],"bottom":[{"type":"bottom","name":"\u53d1\u73b0","alias":"book","link":"","target":"0"},{"type":"bottom","name":"\u4e13\u8f91","alias":"album","link":"","target":"0"}]}

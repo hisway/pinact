@@ -1,0 +1,1 @@
+{"sina":{"code":"sina","name":"\u65b0\u6d6a\u5fae\u535a\u767b\u5f55","config":"a:2:{s:7:\"app_key\";s:0:\"\";s:10:\"app_secret\";s:0:\"\";}"},"qq":{"code":"qq","name":"QQ\u767b\u5f55","config":"a:2:{s:7:\"app_key\";s:9:\"100346701\";s:10:\"app_secret\";s:32:\"03c2cb5757c640bc3b3db01a14378090\";}"}}
